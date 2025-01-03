@@ -1,2 +1,3 @@
-# GIP_2025
+# GIP Training
+
 IOT Workshop
